@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# HTML
+*.html
+
+# Word
+*.doc
+*.docx
+
+# PDF
+*.pdf
