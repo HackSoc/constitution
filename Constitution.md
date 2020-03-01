@@ -34,10 +34,9 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 
 ## 3. Aims and Objectives
 
-1. The aims and objectives of the Society are to promote the interests and act on behalf of the Society Members.
-2. To provide an opportunity for members of the Society to meet and participate in the given activities together.
-3. The Society's specific aims shall be to: provide an environment, events (both academic and social), resources, and opportunities for people with an interest in Computer Science.
-4. The Society's specific objectives shall be to:
+1. The aims and objectives of the Society are to: promote the interests and act on behalf of the Society Members, and provide an opportunity for members of the Society to meet and participate in the given activities together.
+2. The Society's specific aims shall be to: provide an environment, events (both academic and social), resources, and opportunities for people with an interest in Computer Science.
+3. The Society's specific objectives shall be to:
     1. provide enjoyable social and academic events for people to participate in;
     2. provide support for those with an interest in Computer Science who wish to develop their skills.
 
