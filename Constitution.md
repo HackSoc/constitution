@@ -179,6 +179,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     2. Votes are counted using Single Transferable Vote.
     3. if desired, YUSU can provide assistance in the running of any election to ensure fairness or to count votes where necessary.
 6. If any vacancies occur in the Committee during the academic year, they shall be democratically filled as soon as is convenient via an EGM (Extraordinary General Meeting).
+7. Before taking office, Society Committee members must sign a public declaration agreeing to abide by, enforce and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies and guidelines in the Resource Hub.
 
 ## 11. Society Complaints Procedure
 
@@ -227,18 +228,3 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 
 1. The Society may be dissolved if deemed necessary by the members in a simple majority vote at an AGM or EGM. Any assets or remaining funds after debts have been paid shall revert to YUSU, in line with charity law requirements.
 2. In exceptional circumstances, the Society may also be dissolved by Societies Committee if deemed necessary and subject to the approval of the Activities Officer.
-
-## 16. Declaration (All Committee Members)
-
-1. As a Society Committee Member I agree to abide by, enforce and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies and guidelines in the Resource Hub.
-2. Signed by:
-    - Jacob Allen - Chair
-    - Adam Birtles - Secretary
-    - Ash Holland - Treasurer
-    - Aaron Christiansen - Press & Publicity Officer
-    - Charlotte Wringe - Academic Events Officer
-    - Emmet Hollwill - Social Secretary
-    - Luke Moll - Infrastructure Officer
-    - Ezekiel Bethel - Ordinary Member
-    - Rafael Bacalso - Ordinary Member
-    - Daniel Bailey - Ordinary Member
