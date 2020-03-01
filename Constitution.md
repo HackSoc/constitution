@@ -179,6 +179,11 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     2. Votes are counted using Single Transferable Vote.
     3. if desired, YUSU can provide assistance in the running of any election to ensure fairness or to count votes where necessary.
 6. If any vacancies occur in the Committee during the academic year, they shall be democratically filled as soon as is convenient via an EGM (Extraordinary General Meeting).
+7. Members can stand jointly for election to any Committee position in teams of 2 individuals, under the following regulations:
+    1. Both members must be paid-up Society members as per 10.1
+    2. If one member of a jointly elected committee position resigns or is dismissed from their role, an EGM (as per 10.6) shall be held to elect a replacement for the committee position. The remaining member may continue their duties if necessary until the by-election, at which point they must stand for reelection if they wish to continue.
+    3. In committee-only votes, the members which hold a joint position shall only have one collective vote.
+    4. If there is an irreconcilable disagreement between members holding a joint position in regards to a major decision related to their role, there shall be a committee vote in the next committee meeting. All present members shall be allowed to cast a vote on what action shall be taken in order to solve the disagreement and decide on the action to be taken.
 
 ## 11. Society Complaints Procedure
 
