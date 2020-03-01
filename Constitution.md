@@ -225,8 +225,9 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 
 ## 15. Dissolution
 
-1. The Society may be dissolved if deemed necessary by the members in a simple majority vote at an AGM or EGM. Any assets or remaining funds after debts have been paid shall revert to YUSU, in line with charity law requirements.
+1. The Society may be dissolved if deemed necessary by two thirds of the members present at an AGM or EGM.
 2. In exceptional circumstances, the Society may also be dissolved by Societies Committee if deemed necessary and subject to the approval of the Activities Officer.
+3. In the event of dissolution, any assets or remaining funds after debts have been paid shall revert to YUSU, in line with charity law requirements.
 
 ## 16. Declaration (All Committee Members)
 
