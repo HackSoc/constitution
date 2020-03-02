@@ -21,7 +21,6 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 13. [Suspension and Exclusion of Members](#13-suspension-and-exclusion-of-members)
 14. [Amendments to the Society Constitution](#14-amendments-to-the-society-constitution)
 15. [Dissolution](#15-dissolution)
-16. [Declaration](#16-declaration-all-committee-members)
 
 ## 1. Definitions
 
