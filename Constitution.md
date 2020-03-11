@@ -1,6 +1,6 @@
 # HackSoc Constitution
 
-The purpose of this Constitution is to lay out the duties, responsibilities and guidance which members are expected to abide by and to provide the University of York University Students' Union (YUSU) with details about the Society.
+The purpose of this Constitution is to lay out the duties, responsibilities, and guidance which members are expected to abide by and to provide the University of York University Students' Union (YUSU) with details about the Society.
 
 This Constitution does not follow the default template laid out by YUSU, but does closely follow the content of the YUSU template, with deviations as allowed. This document is formatted in a way which leads to easier and more transparent change tracking than is allowed by the format of the YUSU constitution template.
 
@@ -119,7 +119,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
         1. Maintaining the Society's public calendar.
         2. Managing the Society's passwords.
 3. The Treasurer is responsible for:
-    1. Administering the Society's finances in accordance with the Constitution, Laws and By-Laws of YUSU.
+    1. Administering the Society's finances in accordance with the Constitution, Laws, and By-Laws of YUSU.
     2. Attending society officer training.
     3. Learning and understanding the Students' Union financial system.
     4. Applying for the annual grant and extra funding from YUSU where necessary.
@@ -159,7 +159,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 
 ## 9. Meetings
 
-1. The primary decision-making bodies of the Society are Committee meetings, Annual General Meetings (AGMs) and Extraordinary General Meetings (EGMs).
+1. The primary decision-making bodies of the Society are Committee meetings, Annual General Meetings (AGMs), and Extraordinary General Meetings (EGMs).
 2. All General Meetings must be open and advertised to all members.
 3. Minutes should be taken at each meeting and published to all members. A copy of the minutes must also be made available to YUSU staff upon request.
 4. The Committee shall give at least 7 days' notice of any General Meeting.
@@ -182,7 +182,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     2. If one member of a jointly elected committee position resigns or is dismissed from their role, an EGM (as per 10.6) shall be held to elect a replacement for the committee position. The remaining member may continue their duties if necessary until the by-election, at which point they must stand for reelection if they wish to continue.
     3. In committee-only votes, the members which hold a joint position shall only have one collective vote.
     4. If there is an irreconcilable disagreement between members holding a joint position in regards to a major decision related to their role, there shall be a committee vote in the next committee meeting. All present members shall be allowed to cast a vote on what action shall be taken in order to solve the disagreement and decide on the action to be taken.
-8. Before taking office, Society Committee members must sign a public declaration agreeing to abide by, enforce and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies and guidelines in the Resource Hub.
+8. Before taking office, Society Committee members must sign a public declaration agreeing to abide by, enforce, and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies, and guidelines in the Resource Hub.
 
 ## 11. Society Complaints Procedure
 
