@@ -21,7 +21,6 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 13. [Suspension and Exclusion of Members](#13-suspension-and-exclusion-of-members)
 14. [Amendments to the Society Constitution](#14-amendments-to-the-society-constitution)
 15. [Dissolution](#15-dissolution)
-16. [Declaration](#16-declaration-all-committee-members)
 
 ## 1. Definitions
 
@@ -183,6 +182,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     2. If one member of a jointly elected committee position resigns or is dismissed from their role, an EGM (as per 10.6) shall be held to elect a replacement for the committee position. The remaining member may continue their duties if necessary until the by-election, at which point they must stand for reelection if they wish to continue.
     3. In committee-only votes, the members which hold a joint position shall only have one collective vote.
     4. If there is an irreconcilable disagreement between members holding a joint position in regards to a major decision related to their role, there shall be a committee vote in the next committee meeting. All present members shall be allowed to cast a vote on what action shall be taken in order to solve the disagreement and decide on the action to be taken.
+8. Before taking office, Society Committee members must sign a public declaration agreeing to abide by, enforce and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies and guidelines in the Resource Hub.
 
 ## 11. Society Complaints Procedure
 
@@ -232,18 +232,3 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 1. The Society may be dissolved if deemed necessary by two thirds of the members present at an AGM or EGM.
 2. In exceptional circumstances, the Society may also be dissolved by Societies Committee if deemed necessary and subject to the approval of the Activities Officer.
 3. In the event of dissolution, any assets or remaining funds after debts have been paid shall revert to YUSU, in line with charity law requirements.
-
-## 16. Declaration (All Committee Members)
-
-1. As a Society Committee Member I agree to abide by, enforce and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies and guidelines in the Resource Hub.
-2. Signed by:
-    - Jacob Allen - Chair
-    - Adam Birtles - Secretary
-    - Ash Holland - Treasurer
-    - Aaron Christiansen - Press & Publicity Officer
-    - Charlotte Wringe - Academic Events Officer
-    - Emmet Hollwill - Social Secretary
-    - Luke Moll - Infrastructure Officer
-    - Ezekiel Bethel - Ordinary Member
-    - Rafael Bacalso - Ordinary Member
-    - Daniel Bailey - Ordinary Member
