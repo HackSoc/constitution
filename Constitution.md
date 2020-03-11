@@ -33,10 +33,9 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 
 ## 3. Aims and Objectives
 
-1. The aims and objectives of the Society are to promote the interests and act on behalf of the Society Members.
-2. To provide an opportunity for members of the Society to meet and participate in the given activities together.
-3. The Society's specific aims shall be to: provide an environment, events (both academic and social), resources, and opportunities for people with an interest in Computer Science.
-4. The Society's specific objectives shall be to:
+1. The aims and objectives of the Society are to: promote the interests and act on behalf of the Society Members, and provide an opportunity for members of the Society to meet and participate in the given activities together.
+2. The Society's specific aims shall be to: provide an environment, events (both academic and social), resources, and opportunities for people with an interest in Computer Science.
+3. The Society's specific objectives shall be to:
     1. provide enjoyable social and academic events for people to participate in;
     2. provide support for those with an interest in Computer Science who wish to develop their skills.
 
@@ -178,7 +177,12 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     2. Votes are counted using Single Transferable Vote.
     3. if desired, YUSU can provide assistance in the running of any election to ensure fairness or to count votes where necessary.
 6. If any vacancies occur in the Committee during the academic year, they shall be democratically filled as soon as is convenient via an EGM (Extraordinary General Meeting).
-7. Before taking office, Society Committee members must sign a public declaration agreeing to abide by, enforce and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies and guidelines in the Resource Hub.
+7. Members can stand jointly for election to any Committee position in teams of 2 individuals, under the following regulations:
+    1. Both members must be paid-up Society members as per 10.1.
+    2. If one member of a jointly elected committee position resigns or is dismissed from their role, an EGM (as per 10.6) shall be held to elect a replacement for the committee position. The remaining member may continue their duties if necessary until the by-election, at which point they must stand for reelection if they wish to continue.
+    3. In committee-only votes, the members which hold a joint position shall only have one collective vote.
+    4. If there is an irreconcilable disagreement between members holding a joint position in regards to a major decision related to their role, there shall be a committee vote in the next committee meeting. All present members shall be allowed to cast a vote on what action shall be taken in order to solve the disagreement and decide on the action to be taken.
+8. Before taking office, Society Committee members must sign a public declaration agreeing to abide by, enforce and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies and guidelines in the Resource Hub.
 
 ## 11. Society Complaints Procedure
 
@@ -225,5 +229,6 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 
 ## 15. Dissolution
 
-1. The Society may be dissolved if deemed necessary by the members in a simple majority vote at an AGM or EGM. Any assets or remaining funds after debts have been paid shall revert to YUSU, in line with charity law requirements.
+1. The Society may be dissolved if deemed necessary by two thirds of the members present at an AGM or EGM.
 2. In exceptional circumstances, the Society may also be dissolved by Societies Committee if deemed necessary and subject to the approval of the Activities Officer.
+3. In the event of dissolution, any assets or remaining funds after debts have been paid shall revert to YUSU, in line with charity law requirements.
