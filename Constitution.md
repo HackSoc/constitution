@@ -199,7 +199,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 ## 12. Dismissal and Resignation of Committee Members
 
 1. No committee member shall be deemed to be dismissed unless they have received during their term of office a vote of 'no confidence' from their Society members.
-2. Before a vote of 'no confidence' can be considered against a committee member,the complainant must have attempted to settle the matter informally. One of the committee members named in section 6.5 will be responsible for overseeing this informal process, and acting as a mediator when and where they deem necessary.
+2. Before a vote of 'no confidence' can be considered against a committee member, the complainant must have attempted to settle the matter informally. One of the committee members named in section 6.5 will be responsible for overseeing this informal process, and acting as a mediator when and where they deem necessary.
 3. Any incident which cannot be satisfactorily resolved in this way must be referred to the YUSU Student Opportunities Coordinator, who will facilitate a vote of 'no confidence'. This request must be accompanied by a petition of 25% of YUSU members of the Society or 10 YUSU members of the Society, whichever is greater.
 4. If a 'no confidence' motion is called then a Society EGM (see section 9) must be held, and in order for a vote of 'no confidence' motion to be carried it must be supported by two-thirds of those voting.
 5. If the no confidence motion is successful or a Committee member resigns, then a Committee member must inform YUSU immediately. The Society will then need to hold another EGM to re-elect a new person to the position (see section 9).
