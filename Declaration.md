@@ -7,3 +7,14 @@ As a Society Committee Member I agree to abide by, enforce, and operate in accor
 Signed by:
 
 *TO BE FILLED*
+
+- [name] -- Chair
+- [name] -- Secretary
+- [name] -- Treasurer
+- [name] -- Press & Publicity Officer
+- [name] -- Social Secretary
+- [name] -- Infrastructure Officer
+- [name] -- Academic Events Officer
+- [name] -- Ordinary Member
+- [name] -- Ordinary Member
+- [name] -- Ordinary Member
