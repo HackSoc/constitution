@@ -4,6 +4,8 @@ The 'master' branch of this repository holds the canonical version of the HackSo
 
 The constitution is available in [Constitution.md](./Constitution.md).
 
+A PDF copy of the constitution and declaration can be produced by running `make` (pdflatex and [pandoc](https://pandoc.org/) are required). `Roles.md` should be created by copying `Roles.template.md`, filling in the names and removing the instructions, but should not be committed.
+
 This document outlines the procedure for changes to the constitution held in this repository. While it is not binding, it MUST be followed for consistency and continuity.
 
 ## 1. Definitions
