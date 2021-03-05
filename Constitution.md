@@ -64,6 +64,8 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 14. In addition:
     1. Members must follow the code of conduct for use of Society chat systems (e.g. IRC, Slack, etc.);
     2. Members making use of HackSoc-provided servers must follow any applicable acceptable use policies.
+15. In addition to the Code of Practice laid out in this document, members of the committee are expected to abide by further policies as set out in Appendix C.
+16. The further policies set out in Appendix C should be periodically reviewed by the committee to ensure that it reflects the current common practice of the committee.
 
 ## 6. Society's Committee
 
