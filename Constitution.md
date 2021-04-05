@@ -6,7 +6,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 
 ## Table of Contents
 
-1. [Definitions](#1-definitions)
+1. [This Document](#1-this-document)
 2. [Name of the Society](#2-name-of-the-society)
 3. [Aims and Objectives](#3-aims-and-objectives)
 4. [Membership](#4-membership)
@@ -22,10 +22,16 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 14. [Amendments to the Society Constitution](#14-amendments-to-the-society-constitution)
 15. [Dissolution](#15-dissolution)
 
-## 1. Definitions
+## 1. This Document
 
-1. The society in this document will be referred to as the 'Society'.
-2. Those chosen to collectively represent the Society shall be referred to as the Committee.
+1. Definitions
+    1. The society in this document will be referred to as the 'Society'.
+    2. Those chosen to collectively represent the Society shall be referred to as the Committee.
+2. Appendices
+    1. This document may delegate specific and limited details of a clause to an appendix.
+    2. If an appendix is referenced in this document but does not yet exist, the Committee are responsible for creating it.
+    3. An appendix may be created or amended by a majority vote of the Committee.
+    4. Appendices that are not referenced in this document have no effect.
 
 ## 2. Name of the Society
 
@@ -174,8 +180,8 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 4. Only paid-up Society members who are also full members of YUSU shall be entitled to vote.
 5. The Committee must be democratically elected in a free and fair election.
     1. All Society members must have the chance to question candidates and submit a vote in private and in absentia (where necessary).
-    2. Votes are counted using Single Transferable Vote.
-    3. if desired, YUSU can provide assistance in the running of any election to ensure fairness or to count votes where necessary.
+    2. Votes are counted using Single Transferable Vote, as specified in Appendix B.
+    3. If desired, YUSU can provide assistance in the running of any election to ensure fairness or to count votes where necessary.
 6. If any vacancies occur in the Committee during the academic year, they shall be democratically filled as soon as is convenient via an EGM (Extraordinary General Meeting).
 7. Members can stand jointly for election to any Committee position in teams of 2 individuals, under the following regulations:
     1. Both members must be paid-up Society members as per 10.1.
@@ -183,6 +189,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     3. In committee-only votes, the members which hold a joint position shall only have one collective vote.
     4. If there is an irreconcilable disagreement between members holding a joint position in regards to a major decision related to their role, there shall be a committee vote in the next committee meeting. All present members shall be allowed to cast a vote on what action shall be taken in order to solve the disagreement and decide on the action to be taken.
 8. Before taking office, Society Committee members must sign a public declaration agreeing to abide by, enforce, and operate in accordance with this Constitution, YUSU's Constitution, YUSU's Policies, and guidelines in the Resource Hub.
+    1. The template for this declaration is given in Appendix A.
 
 ## 11. Society Complaints Procedure
 

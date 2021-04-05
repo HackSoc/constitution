@@ -1,8 +1,8 @@
 # The HackSoc Constitution
 
-The 'master' branch of this repository holds the canonical version of the HackSoc constitution.
+The 'master' branch of this repository holds the canonical version of the HackSoc constitution and its appendices.
 
-The constitution is available in [Constitution.md](./Constitution.md).
+The constitution is available in [Constitution.md](./Constitution.md) and appendices may be found in [appendices/](./appendices/).
 
 A PDF copy of the constitution and declaration can be produced by running `make` (pdflatex and [pandoc](https://pandoc.org/) are required). `Roles.md` should be created by copying `Roles.template.md`, filling in the names and removing the instructions, but should not be committed.
 
@@ -15,21 +15,38 @@ This document outlines the procedure for changes to the constitution held in thi
     1. HackSoc will be referred to as the 'Society'.
     2. The constitution of the Society, as laid out in [Constitution.md](./Constitution.md), will be referred to as the 'Constitution'.
 
-## 2. Changes to the Constitution
+## 2. General Rules
 
-1. All changes to the Constitution MUST be made via a Pull Request.
-2. Pull Requests for changes to the Constitution MUST be merged following a successful vote at a General Meeting of the Society.
-3. 'Housekeeping' changes MAY be made on the conditions that said changes:
-    1. MUST not affect the meaning of the Constitution (though they MAY affect the format and/or style);
-    2. MUST be made via a Pull Request as per 2.1, for which the following restrictions apply:
+1. All changes to this repository MUST be made via a Pull Request.
+2. 'Housekeeping' changes MAY be made on the conditions that said changes:
+    1. MUST NOT affect the meaning of the Constitution or its appendices (though they MAY affect the format and/or style);
+    2. MUST be made via a Pull Request as per §2.1, for which the following restrictions apply:
         1. The change's Pull Request MUST be clearly marked as housekeeping;
         2. The commit message for the change's Pull Request MUST start with the text 'Housekeeping:'.
-4. Pull Request MUST only be merged as set out by this section (2).
-5. Pull Requests SHOULD contain a summary of the discussion and debate of the proposed amendment they represent, if they represent one.
-6. Pull Requests MUST contain the results of any vote on the amendment they represent, if they represent one.
-7. The commit message for all Pull Requests, except those outlined in 2.4, MUST contain the results of the passing vote for the amendment they represent e.g. the number of votes for, against, and abstentions.
-8. Pull Requests MUST be merged as a single commit.
-9. The commit message for all merges of Pull Requests MUST contain a reference to the Pull Request they were merged from.
-10. Pull Requests MUST represent at most a single amendment to the Constitution.
-11. Changes to the Constitution SHOULD be proposed by the creation of a Pull Request for an amendment to be discussed and voted on at the next General Meeting of the Society.
-12. Ideas for changes to the Constitution MAY be proposed by the creation of an Issue, which MUST be refined into a specific change before it can be considered at a General Meeting.
+3. Pull Requests MUST only be merged as set out by this document.
+4. Pull Requests MUST be merged as a single commit.
+5. The commit message for all merges of Pull Requests MUST contain a reference to the Pull Request they were merged from.
+
+## 3. Changes to the Constitution
+
+1. Pull Requests for amendments to the Constitution:
+    1. MUST be merged following a successful vote at a General Meeting of the Society.
+    2. MUST contain the results of any vote on the amendment they represent.
+    3. SHOULD contain a summary of the discussion and debate of the proposed amendment they represent.
+    4. MUST represent exactly one amendment to the Constitution.
+2. Commit messages merging Pull Requests for amendments to the Constitution:
+    1. MUST contain the results of the passing vote for the amendment they represent (i.e. the number of votes for, against, and abstaining).
+    2. MUST start with the text 'Amendment:'.
+3. Changes to the Constitution SHOULD be proposed by the creation of a Pull Request for an amendment to be discussed and voted on at the next General Meeting of the Society.
+4. Ideas for changes to the Constitution MAY be proposed by the creation of an Issue, which MUST be refined into a specific change before it can be considered at a General Meeting.
+
+## 4. Changes to Constitutional Appendices
+
+1. Pull Requests for amendments to Constitutional Appendices:
+    1. MUST be merged following a successful vote at a meeting of the Committee.
+    2. MUST contain the result of any vote on the amendment they represent.
+    3. MUST represent an amendment to exactly one Appendix of the Constitution.
+    4. MUST not affect the content of the Constitution.
+2. Commit messages merging Pull Requests for amendments to Constitutional appendices:
+    1. MUST contain the results of the passing vote for the amendment they represent (i.e. the number of votes for, against, and abstaining)
+    2. MUST start with the text 'Appendix `X`:', where `X` is the letter of the affected appendix.
