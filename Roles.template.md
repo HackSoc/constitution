@@ -1,4 +1,4 @@
-*This template document (see Declaration.md) is to be signed by all members of the incoming Committee before they take office. The signed Declaration should be made public on the HackSoc website by the incoming Committee once signed (the signed copy should not be committed here).*
+*This template document (see appendices/A-declaration.md) is to be signed by all members of the incoming Committee before they take office. The signed Declaration should be made public on the HackSoc website by the incoming Committee once signed (the signed copy should not be committed here).*
 
 *TO BE FILLED*
 

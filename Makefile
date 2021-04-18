@@ -1,2 +1,2 @@
-Constitution.pdf: Constitution.md Declaration.md Roles.md
+Constitution.pdf: Constitution.md appendices/A-declaration.md Roles.md appendices/*.md
 	pandoc -s $^ -o $@
