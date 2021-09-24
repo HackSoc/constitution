@@ -1,6 +1,6 @@
 # The HackSoc Constitution
 
-The 'master' branch of this repository holds the canonical version of the HackSoc constitution and its appendices.
+The 'main' branch of this repository holds the canonical version of the HackSoc constitution and its appendices.
 
 The constitution is available in [Constitution.md](./Constitution.md) and appendices may be found in [appendices/](./appendices/).
 
