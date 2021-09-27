@@ -1,6 +1,6 @@
 # Appendix D: Code of Conduct
 
-This appendix lays out the code of conduct that all HackSoc Members must adhere by. This code of conduct can also be found on the HackSoc [Website](https://www.hacksoc.org/coc.html), which also details some conventions used in HackSoc spaces.
+This appendix lays out the code of conduct that all HackSoc members must adhere by. This code of conduct can also be found on the HackSoc [website](https://www.hacksoc.org/coc.html), which also details some conventions used in HackSoc spaces.
 
 ## Values Statement
 
