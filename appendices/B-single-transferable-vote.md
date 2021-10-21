@@ -7,8 +7,8 @@ This appendix defines the method of Single Transferable Vote (STV) that shall be
 - A valid ballot consists of a list of candidates clearly ranked by preference (1 is most preferable).
 - A ballot with a clear mark (e.g. an X or tick) against exactly one candidate should be interpreted the same as a ballot with that one candidate as its first and only preference.
 - Voters are not required to rank all candidates on the ballot.
-- Voters may not write in candidates that have not nominated themselves for the election.
-- Voters may invalidate their ballot by spoiling it or leaving it empty. An invalid ballot still counts towards quorum for the election.
+- Voters may not write in candidates that are not running for the position.
+- Voters may invalidate their ballot by spoiling it or leaving it empty. An invalid ballot still counts towards quorum for the election of the position.
 
 ## Counting
 
