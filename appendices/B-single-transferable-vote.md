@@ -20,7 +20,7 @@ This appendix defines the method of Single Transferable Vote (STV) that shall be
     1. For each candidate, calculate their score for this round by adding up the values of the ballots assigned to them. If their score is greater than or equal to the Droop quota, then they have "reached quota".
     2. If more candidates have reached quota than there are vacant seats, then there is a tie:
         1. If electing the candidates with the highest scores would cause a further tie, then the counting has failed.
-        2. Otherwise, elect the candidates with the highest scores
+        2. Otherwise, elect the candidates with the highest scores.
         3. The counting is now complete.
     3. Otherwise, if any candidates have reached quota. For each of them:
         1. Elect them.
@@ -38,6 +38,6 @@ This appendix defines the method of Single Transferable Vote (STV) that shall be
 
 ## Failed counting and vacant seats
 
-If the counting fails due to a tie, all candidates unambiguously elected so far should be elected. Then the counting should end with the remaining seats left vacant.
+If the counting fails (due to a tie), all candidates unambiguously elected so far should be elected. Then the counting should end with the remaining seats left vacant.
 
-If the counting ends with vacant seats, as per the constitution 10.6, nominations should be reopened and a general meeting held to fill the seats.
+If the counting ends with vacant seats, as per the Constitution section 10.6, nominations should be reopened and a general meeting held to fill the seats.
