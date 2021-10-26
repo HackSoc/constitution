@@ -24,7 +24,7 @@ This appendix defines the method of Single Transferable Vote (STV) that shall be
         3. The counting is now complete.
     3. Otherwise, if any candidates have reached quota. For each of them:
         1. Elect them.
-        2. Let their surplus = score - Drop quota.
+        2. Let their surplus = score - Droop quota.
         3. If their surplus is 0, then discard all their ballots.
         4. Otherwise, for each of their ballots:
             1. Let the ballot's new value = old value * (surplus / Droop quota).
