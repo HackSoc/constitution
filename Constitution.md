@@ -67,9 +67,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 11. Any action taken by the members on behalf of or while representing the Society in any way will also be accountable to the YUSU Code of Conduct found in By-Law 12.
 12. Breaches of this code of practice can result in Society, YUSU, or University disciplinary action.
 13. The Society must adhere to the GDPR in order to protect their members' data, they should make members aware of how their data will be used and be able to justify doing so.
-14. In addition:
-    1. Members must follow the code of conduct for use of Society chat systems (e.g. IRC, Slack, etc.);
-    2. Members making use of HackSoc-provided servers must follow any applicable acceptable use policies.
+14. In addition, all members must follow the HackSoc Code of Conduct, as set out in Appendix D.
 15. In addition to the Code of Practice laid out in this document, members of the committee are expected to abide by further policies as set out in Appendix C.
 16. The further policies set out in Appendix C should be periodically reviewed by the committee to ensure that it reflects the current common practice of the committee.
 
