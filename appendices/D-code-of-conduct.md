@@ -18,6 +18,7 @@ We will not tolerate any use of this code of conduct as a hammer against margina
 * No advocating, even in jest, for Nazis/white supremacy etc
 * Be wary of “dog whistles”, or innocuous-seeming words or images that have another meaning to a specific audience (the [Anti-Defamation League](https://www.adl.org/hate-symbols) has a list of (mainly white supremacist) hate symbols which may be used as dog whistles)
 * Avoid making fun of other people’s spelling, word choices, phrasing etc. – if you’re making a joke, think for a few seconds about why it’s funny first
+* No advertising or self-promotion without prior permission of the committee
 * Committee may ask you to stop any behaviour that is not explicitly disallowed here
 * No harassment: if someone asks you to stop interacting with them, do not use our spaces to circumvent this
 * This Code of Conduct applies to all HackSoc spaces, online or physical, public or private
