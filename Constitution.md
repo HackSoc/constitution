@@ -81,12 +81,13 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     1. Chair
     2. Secretary
     3. Treasurer
-    4. Press & Publicity Officer
-    5. Social Secretary
-    6. Infrastructure Officer
-    7. Academic Events Officer
-    8. 3 × Ordinary Members
-6. The Committee will ensure an up-to-date list of Committee members is provided to YUSU within two working days of any election.
+6. The democratically elected Committee may also include the following additional Committee members:
+    1. Press & Publicity Officer
+    2. Social Secretary
+    3. Infrastructure Officer
+    4. Academic Events Officer
+    5. 3 × Ordinary Members
+7. The Committee will ensure an up-to-date list of Committee members is provided to YUSU within two working days of any election.
 
 ## 7. Duties of the Society's Committee
 
