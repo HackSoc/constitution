@@ -6,9 +6,9 @@
 - [name] -- Secretary
 - [name] -- Treasurer
 - [name] -- Press & Publicity Officer
-- [name] -- Social Secretary
+- [name] -- Social Events Officer
 - [name] -- Infrastructure Officer
 - [name] -- Academic Events Officer
-- [name] -- Ordinary Member
-- [name] -- Ordinary Member
-- [name] -- Ordinary Member
+- [name] -- Ordinary Officer
+- [name] -- Ordinary Officer
+- [name] -- Ordinary Officer
