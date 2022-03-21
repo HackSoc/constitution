@@ -77,16 +77,18 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 2. All of the Committee must be current YUSU members who are enrolled and studying on a University of York programme.
 3. The Committee shall have the power to set Society rules, in accordance with the Society Constitution.
 4. A new Committee must be democratically elected at least annually at the Annual General Meeting (AGM).
-5. The democratically elected Committee must at minimum consist of:
+5. The Committee must at minimum consist of:
     1. Chair
     2. Secretary
     3. Treasurer
-    4. Press & Publicity Officer
-    5. Social Secretary
-    6. Infrastructure Officer
-    7. Academic Events Officer
-    8. 3 × Ordinary Members
-6. The Committee will ensure an up-to-date list of Committee members is provided to YUSU within two working days of any election.
+6. The Committee may also include the following additional Committee members:
+    1. Press & Publicity Officer
+    2. Social Secretary
+    3. Infrastructure Officer
+    4. Academic Events Officer
+    5. 3 × Ordinary Members
+7. At each Annual General Meeting (AGM), elections must be held for all of these Committee roles.
+8. The Committee will ensure an up-to-date list of Committee members is provided to YUSU within two working days of any election.
 
 ## 7. Duties of the Society's Committee
 
