@@ -83,10 +83,10 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     3. Treasurer
 6. The Committee may also include the following additional Committee members:
     1. Press & Publicity Officer
-    2. Social Secretary
+    2. Social Events Officer
     3. Infrastructure Officer
     4. Academic Events Officer
-    5. 3 × Ordinary Members
+    5. 3 × Ordinary Officers
 7. At each Annual General Meeting (AGM), elections must be held for all of these Committee roles.
 8. The Committee will ensure an up-to-date list of Committee members is provided to YUSU within two working days of any election.
 
@@ -114,7 +114,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     7. Calling and chairing meetings of the Society's committee.
     8. Publicising the Society.
     9. Any other duties as mutually agreed by the Committee and the Chair.
-2. The Society Secretary is responsible for:
+2. The Secretary is responsible for:
     1. Attending society officer training.
     2. Taking care of society administration and updating the Society's backpages information and membership list.
     3. Arranging meetings and booking rooms or venues.
@@ -142,7 +142,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
         2. Manage the Society's social media accounts.
         3. Advertise the events of the Society.
         4. Conduct outreach on behalf of the Society.
-    2. Social Secretary:
+    2. Social Events Officer:
         1. Responsible for non-academic events.
         2. Aid members of the society in the organisation of social events.
         3. Work with the Secretary to organise events.
@@ -152,7 +152,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
         3. Work with the Secretary to organise events.
     4. Infrastructure Officer
         1. Manage the technical infrastructure of the Society, including servers, backend of the website, and Society chat systems.
-    5. Ordinary Members
+    5. Ordinary Officers
         1. Responsibilities will be allocated as required.
 5. No Committee member should be responsible for case work e.g. giving support and advice to any individual student. If and when these cases present they must be referred promptly to the student opportunities coordinator who can ensure the proper support is made available.
 
