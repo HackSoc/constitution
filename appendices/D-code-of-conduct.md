@@ -20,7 +20,9 @@ We will not tolerate any use of this code of conduct as a hammer against margina
 * Avoid making fun of other people’s spelling, word choices, phrasing etc. – if you’re making a joke, think for a few seconds about why it’s funny first
 * Please don't enter HackSoc social spaces in order to advertise
 * Committee may ask you to stop any behaviour that is not explicitly disallowed here
-* No harassment: if someone asks you to stop interacting with them, do not use our spaces to circumvent this
+* No bullying or harrassment. If someone asks you to stop interacting with them, do not use our spaces to circumvent this.
+* No threatening language or behaviour. Do not say or do anything that could reasonably cause someone to fear for their safety.
+* No doxxing or threatening to dox someone. It can be just as frightening to claim that you know where someone lives as it is to outright post their address.
 * This Code of Conduct applies to all HackSoc spaces, online or physical, public or private
 * As a YUSU society, our members are also bound by the [YUSU Code of Conduct](https://yusu.org/about-us/documents/by-laws)
 
