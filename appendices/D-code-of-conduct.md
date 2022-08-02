@@ -39,8 +39,6 @@ We will not tolerate any use of this code of conduct as a hammer against margina
 * Committee reserves the right to delete any content
     * e.g. NSFW content
 
-On our chat platforms, this code of conduct applies both to messages and to other information that is visible to our users. This includes profiles and statuses.
-
 ### GitHub
 
 * Not everyone is at the same level. Do not mock, humiliate, or insult someone over the contents of a pull request.
