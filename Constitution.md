@@ -138,7 +138,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
     9. Creating a budget for each event.
 4. Duties of other committee members:
     1. Press & Publicity Officer:
-        1. Send weekly update emails.
+        1. Send weekly updates, either through email or another method that reaches all Society members.
         2. Manage the Society's social media accounts.
         3. Advertise the events of the Society.
         4. Conduct outreach on behalf of the Society.
