@@ -14,6 +14,10 @@ This document outlines the procedure for changes to the constitution held in thi
 2. Throughout this document the following definitions and terms will be used:
     1. HackSoc will be referred to as the 'Society'.
     2. The constitution of the Society, as laid out in [Constitution.md](./Constitution.md), will be referred to as the 'Constitution'.
+    3. Any General Meeting of the Society will be referred to as a 'General Meeting'.
+    4. A 'Pull Request' if not otherwise specified is a Pull Request to the copy of this repository at `HackSoc/constitution` on [GitHub](https://github.com/) as found [here](https://github.com/HackSoc/constitution).
+    5. 'Quorum' is defined as per the Constitution.
+    6. 'Committee' is defined as per the Constitution.
 
 ## 2. General Rules
 
@@ -22,23 +26,37 @@ This document outlines the procedure for changes to the constitution held in thi
     1. MUST NOT affect the meaning of the Constitution or its appendices (though they MAY affect the format and/or style);
     2. MUST be made via a Pull Request as per §2.1, for which the following restrictions apply:
         1. The change's Pull Request MUST be clearly marked as housekeeping;
-        2. The commit message for the change's Pull Request MUST start with the text 'Housekeeping:'.
+        2. The commit message for the change's Pull Request MUST start with the text 'Housekeeping:';
+    3. MUST be approved by the Committee.
 3. Pull Requests MUST only be merged as set out by this document.
 4. Pull Requests MUST be merged as a single commit.
 5. The commit message for all merges of Pull Requests MUST contain a reference to the Pull Request they were merged from.
+6. 'Procedure' changes MAY be made on the conditions that said changes:
+    1. MUST NOT affect the text of the Constitution or its appendices;
+    2. MUST be made via a Pull Request as per §6.1, for which the following restrictions apply:
+        1. The change's Pull Request MUST be clearly marked as a procedure change;
+        2. The commit message for the change's Pull Request MUST start with the text 'Procedure:';
+    3. MUST be approved by the Committee.
 
 ## 3. Changes to the Constitution
 
 1. Pull Requests for amendments to the Constitution:
-    1. MUST be merged following a successful vote at a General Meeting of the Society.
-    2. MUST contain the results of any vote on the amendment they represent.
+    1. MUST be merged following a successful vote at a General Meeting.
+    2. MUST contain comments with the results of any vote on the amendment they represent.
     3. SHOULD contain a summary of the discussion and debate of the proposed amendment they represent.
     4. MUST represent exactly one amendment to the Constitution.
+    5. MUST contain a comment stating any time the amendment was considered at a General Meeting.
 2. Commit messages merging Pull Requests for amendments to the Constitution:
     1. MUST contain the results of the passing vote for the amendment they represent (i.e. the number of votes for, against, and abstaining).
     2. MUST start with the text 'Amendment:'.
-3. Changes to the Constitution SHOULD be proposed by the creation of a Pull Request for an amendment to be discussed and voted on at the next General Meeting of the Society.
+3. Changes to the Constitution SHOULD be proposed by the creation of a Pull Request for an amendment to be discussed and voted on at the next General Meeting.
 4. Ideas for changes to the Constitution MAY be proposed by the creation of an Issue, which MUST be refined into a specific change before it can be considered at a General Meeting.
+5. If an amendment is Rejected at a General Meeting, the corresponding Pull Request must be rejected.
+    1. An amendment is Rejected if more than 50% of votes are against the amendment and the amendment reaches Quorum.
+6. If an amendment Fails to pass at a General Meeting, the Pull Request MUST be left open.
+    1. The amendment must be voted on at the next General Meeting as a new amendment would be.
+    2. An amendment Fails if it does not reach Quorum but is not Rejected.
+7. An amendment MAY be withdrawn at any time before it is discussed and voted on at a General Meeting by the proposer.
 
 ## 4. Changes to Constitutional Appendices
 
@@ -47,6 +65,7 @@ This document outlines the procedure for changes to the constitution held in thi
     2. MUST contain the result of any vote on the amendment they represent.
     3. MUST represent an amendment to exactly one Appendix of the Constitution.
     4. MUST not affect the content of the Constitution.
+    5. MUST contain a comment stating any time the amendment was considered at a General Meeting.
 2. Commit messages merging Pull Requests for amendments to Constitutional appendices:
     1. MUST contain the results of the passing vote for the amendment they represent (i.e. the number of votes for, against, and abstaining)
     2. MUST start with the text 'Appendix `X`:', where `X` is the letter of the affected appendix.
