@@ -44,6 +44,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 3. The Society's specific objectives shall be to:
     1. provide enjoyable social and academic events for people to participate in;
     2. provide support for those with an interest in Computer Science who wish to develop their skills.
+    3. appricate blåhaj and other snuggly plushies.
 
 ## 4. Membership
 
@@ -70,7 +71,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 14. In addition, all members must follow the HackSoc Code of Conduct, as set out in Appendix D.
 15. In addition to the Code of Practice laid out in this document, members of the committee are expected to abide by further policies as set out in Appendix C.
 16. The further policies set out in Appendix C should be periodically reviewed by the committee to ensure that it reflects the current common practice of the committee.
-17. Member are encouraged to bring Blåhaj or other snuggly plushies to society events :3
+
 
 ## 6. Society's Committee
 
