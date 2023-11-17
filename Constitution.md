@@ -70,6 +70,7 @@ This Constitution does not follow the default template laid out by YUSU, but doe
 14. In addition, all members must follow the HackSoc Code of Conduct, as set out in Appendix D.
 15. In addition to the Code of Practice laid out in this document, members of the committee are expected to abide by further policies as set out in Appendix C.
 16. The further policies set out in Appendix C should be periodically reviewed by the committee to ensure that it reflects the current common practice of the committee.
+17. Member are encouraged to bring Blåhaj to society events :3
 
 ## 6. Society's Committee
 
